@@ -39,3 +39,6 @@ A nota final será computada através da média aritméticas das seguintes ativi
 [![Use a cabeça HTML e CSS](assets/books/headfirst.jpeg)](https://www.amazon.com.br/Use-Cabe%C3%A7a-HTML-Eric-Freeman/dp/8576088622)
 
 E para completar ainda mais, acesse esses [exemplares](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) com outras indicações.
+
+## Referências / Inspirações
+Diciplina de [https://github.com/ifpb/lm](Linguagens de Marcação) do Curso de Tecnologia de Sistemas para Internet do IFPB 
