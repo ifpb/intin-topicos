@@ -1,9 +1,9 @@
 [\# 01 - Apresentação da Disciplina (10/05/2018)](#-01---apresentação-da-disciplina-10052018)<br>
-[\# 02 - Introdução a HTML e ferramentas (17/05/2018)](#-02---introducao-a-html-e-ferramentas-17052018)<br>
-[\# 03 - Gerenciando listas e tabelas (24/05/2018)](#-03---gerenciando-listas-tabelas-24052018)<br>
+[\# 02 - Introdução a HTML e ferramentas (17/05/2018)](#-02---introdução-a-html-e-ferramentas-17052018)<br>
+[\# 03 - Gerenciando listas e tabelas (24/05/2018)](#-03---gerenciando-listas-e-tabelas-24052018)<br>
 [\# 04 - Adicionando Links (07/06/2018)](#-04---adicionando-links-07062018)<br>
 [\# 05 - Adicionando imagens, áudios e vídeos (14/06/2018)](#-05---adicionando-imagens-áudios-e-vídeos-14062018)<br>
-[\# 06 - Criando formulários (21/06/2018)](#-06---criando-formularios-21062018)<br>
+[\# 06 - Criando formulários (21/06/2018)](#-06---criando-formulários-21062018)<br>
 
 ## \# 01 - Apresentação da Disciplina (10/05/2018)
 ---
