@@ -8,7 +8,7 @@
 ## \# 01 - Apresentação da Disciplina (10/05/2018)
 ---
 **Conteúdo:**
-- [Apresentação da disciplina](https://ifpb.github.io/lm/):
+- [Apresentação da disciplina](https://github.com/ifpb/intin-topicos/):
   - Objetivo, conteúdo, avaliação, comunicação, bibliografia e ferramentas
 - [Slides](assets/slides/topicos-01.pdf)
 
