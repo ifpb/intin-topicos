@@ -41,4 +41,4 @@ A nota final será computada através da média aritméticas das seguintes ativi
 E para completar ainda mais, acesse esses [exemplares](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) com outras indicações.
 
 ## Referências / Inspirações
-Diciplina de [https://github.com/ifpb/lm](Linguagens de Marcação) do Curso de Tecnologia de Sistemas para Internet do IFPB 
+Diciplina de [Linguagens de Marcação](https://github.com/ifpb/lm) do Curso de Tecnologia de Sistemas para Internet do IFPB 
