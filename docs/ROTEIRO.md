@@ -60,7 +60,7 @@
 ## \# 05 - Adicionando imagens, áudios e vídeos (14/06/2018)
 ---
 **Conteúdo:**
-- [Imagem `<img>`, `<figure>`, `<figcaption>`](guides/imagens-e-midias)
+- [Imagem `<img>`, `<figure>`, `<figcaption>`](../guides/imagens-e-midias)
   - Imagem dentro (Data URI), próximo ou distante do HTML
     - Custos e benefícios
   - Atributos: `src`, `alt`, `width`, `title`
@@ -68,7 +68,7 @@
 
 ## \# 06 - Criando formulários (21/06/2018)
 ---
-- [Campos de formulário](guides/formularios)
+- [Campos de formulário](../guides/formularios)
   - Campos de texto, data, email, número
   - Campos de seleção (checkbox, radio, combobox)
   - Atributos de validação (`required`)
