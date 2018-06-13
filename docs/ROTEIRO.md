@@ -14,7 +14,7 @@
 
 ## \# 02 - Introdução a HTML e ferramentas (17/05/2018)
 ---
-** Conteúdo: **
+**Conteúdo:**
 - Editando HTML com o [Atom](https://atom.io/) e visualizando com o Google Chrome (https://www.google.com/chrome/)
 - Trabalhando com html na prática
   - Conceitos básicos
@@ -29,12 +29,12 @@
   - Negrito e Itálico
 - [Referências dos Elementos](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/)
 
-** Exercício: **
+**Exercício:**
 - Criando a primeira página Web (cantina do IFPB)
 
 ## \# 03 - Gerenciando listas e tabelas (24/05/2018)
 ---
-** Conteúdo: **
+**Conteúdo:**
 - Listas `<ol>`, `<ul>`, `<dl>`
   - Definição, Ordenada, Não ordenado
   - Lista aninhada
@@ -44,7 +44,7 @@
   - Mesclando linhas com `rowspan` e colunas com `colspan`
 - [Slides](assets/slides/topicos-02.pdf)
 
-** Exercício: **
+**Exercício:**
 - Criando página da disciplina com lista de itens
 - Adicionando cronograma da disciplina como tabela
 
@@ -59,8 +59,18 @@
 
 ## \# 05 - Adicionando imagens, áudios e vídeos (14/06/2018)
 ---
-
-
+**Conteúdo:**
+- [Imagem `<img>`, `<figure>`, `<figcaption>`](guides/imagens-e-midias)
+  - Imagem dentro (Data URI), próximo ou distante do HTML
+    - Custos e benefícios
+  - Atributos: `src`, `alt`, `width`, `title`
+  - Imagem com link
 
 ## \# 06 - Criando formulários (21/06/2018)
 ---
+- [Campos de formulário](guides/formularios)
+  - Campos de texto, data, email, número
+  - Campos de seleção (checkbox, radio, combobox)
+  - Atributos de validação (`required`)
+  - Botões de ação
+- Criando um formulário básico
