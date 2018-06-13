@@ -16,7 +16,7 @@
 <input type="text" name="cpf">
 ```
 
-### [Atributo `required`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#Attributes)
+### [Atributo required](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#Attributes)
 
 <div style="border-radius: 0.3rem;background-color: #f3f6fa;border: solid 1px #dce6f0; padding: 0.8rem">
   <form>
@@ -28,7 +28,7 @@
 <input type="text" name="cpf" required>*
 ```
 
-### [Atributo `placeholder` ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#Attributes)
+### [Atributo placeholder ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#Attributes)
 
 <div style="border-radius: 0.3rem;background-color: #f3f6fa;border: solid 1px #dce6f0; padding: 0.8rem">
   <input type="text" name="cpf" placeholder="000.000.000-00">
@@ -38,7 +38,7 @@
 <input type="text" name="cpf" placeholder="000.000.000-00">
 ```
 
-### [Atributo `value`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#Attributes)
+### [Atributo value](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#Attributes)
 
 <div style="border-radius: 0.3rem;background-color: #f3f6fa;border: solid 1px #dce6f0; padding: 0.8rem">
   <input type="text" name="cpf" value="000.000.000-00">
@@ -48,7 +48,7 @@
 <input type="text" name="cpf" value="000.000.000-00">
 ```
 
-### [Tag `label`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
+### [Tag label](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 
 <div style="border-radius: 0.3rem;background-color: #f3f6fa;border: solid 1px #dce6f0; padding: 0.8rem">
   <label for="cpf">CPF:</label>
@@ -60,7 +60,7 @@
 <input type="text" name="cpf" id="cpf">
 ```
 
-### [Campo tipo `password`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password)
+### [Campo tipo password](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password)
 
 <div style="border-radius: 0.3rem;background-color: #f3f6fa;border: solid 1px #dce6f0; padding: 0.8rem">
   <input type="password" name="password">
@@ -70,7 +70,7 @@
 <input type="password" name="password">
 ```
 
-### [Botão de rádio (`radio button`)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
+### [Botão de rádio (radio button)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
 
 <div style="border-radius: 0.3rem;background-color: #f3f6fa;border: solid 1px #dce6f0; padding: 0.8rem">
   <input type="radio" name="sexo_value" value="masculino" id="masculino">
@@ -100,7 +100,7 @@ Sexo:
 <label for="feminino">feminino</label>
 ```
 
-### [Campo de seleção múltipla (`checkbox`)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox)
+### [Campo de seleção múltipla (checkbox)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox)
 
 <div style="border-radius: 0.3rem;background-color: #f3f6fa;border: solid 1px #dce6f0; padding: 0.8rem">
   <input type="checkbox" name="aceitaCondicoes" value="ok" id="condicoes">
@@ -112,7 +112,7 @@ Sexo:
 <label for="condicoes">Você concorda com os termos...</label>
 ```
 
-### [Agrupamento de `checkbox`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox)
+### [Agrupamento de checkbox](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox)
 
 <div style="border-radius: 0.3rem;background-color: #f3f6fa;border: solid 1px #dce6f0; padding: 0.8rem">
   Linguagens:
@@ -314,15 +314,15 @@ Saída:
   </main>
 </div>
 
-## References
+## Referências
 ---
 * [HTML forms Guide \| MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 * [HTML5 forms introduction and new attributes](http://html5doctor.com/html5-forms-introduction-and-new-attributes/)
 * [HTML Form \| W3C](https://www.w3.org/TR/html5/forms.html)
-* Elements: [`<form>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form),
+* Elementos: [`<form>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form),
   [`<input>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input),
   [`<label>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
-* Attributes
+* Atributos
   * [`<form>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form#Attributes): `action`, `method`
   * [`<input>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#Attributes): `type`
   * [`<label>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label#Attributes): `for`
