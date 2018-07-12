@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exemplo de Formulário</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h1>Cadastro de Alunos</h1>
+    <form method="post" action="sucesso.html">
+      <fieldset>
+      <div>
+        <label>Nome:</label>
+        <input type="text" name="nome" />
+      </div>
+    <div>
+        <label>Sexo:</label>
+        <input type="radio" name="sexo" id="masculino" value="masculino" />
+        <label for="masculino">Masculino</label>
+        <input type="radio" name="sexo" id="feminino" value="feminino" />
+        <label for="feminino">Feminino</label>
+    </div>
+    <div>
+      <label>E-mail:</label>
+      <input type="email" name="email" />
+    </div>
+    <div>
+      <label>Linguagens de Programação:</label>
+      <input id="java" type="checkbox" name="linguagens" value="java" />
+      <label for="java">Java</label>
+      <input id="python" type="checkbox" name="linguagens" value="python" />
+      <label for="python">Python</label>
+    </div>
+    <div>
+      <label>Estado:</label>
+      <select name="estado">
+          <option value="PB">Paraíba</option>
+          <option value="PE">Pernambuco</option>
+          <option value="CE">Ceará</option>
+      </select>
+    </div>
+    <div>
+      <label>Biografia:</label>
+      <textarea name="biografia" cols="30" rows="5"></textarea>
+    </div>
+  </fieldset>
+    <input type="submit" value="Enviar" />
+    </form>
+  </body>
+
+</html>

@@ -10,7 +10,7 @@
 **Conteúdo:**
 - [Apresentação da disciplina](https://github.com/ifpb/intin-topicos/):
   - Objetivo, conteúdo, avaliação, comunicação, bibliografia e ferramentas
-- [Slides](assets/slides/topicos-01.pdf)
+- [Slides](https://github.com/ifpb/intin-topicos/blob/master/assets/slides/topicos-01.pdf)
 
 ## \# 02 - Introdução a HTML e ferramentas (17/05/2018)
 ---
@@ -42,7 +42,7 @@
   - Definição de linhas `<tr>` e colunas `<td>`
   - Colunas de cabeçalho `<th>`
   - Mesclando linhas com `rowspan` e colunas com `colspan`
-- [Slides](assets/slides/topicos-02.pdf)
+- [Slides](https://github.com/ifpb/intin-topicos/blob/master/assets/slides/topicos-02.pdf)
 
 **Exercício:**
 - Criando página da disciplina com lista de itens
