@@ -66,7 +66,7 @@
   - Atributos: `src`, `alt`, `width`, `title`
   - Imagem com link
 
-## \# 06 - Criando formulários (21/06/2018)
+## \# 06 - Criando formulários (12/07/2018)
 ---
 - [Campos de formulário](../guides/formularios)
   - Campos de texto, data, email, número
