@@ -19,9 +19,11 @@ O objetivo desta atividade consiste em abordar os seguintes tópicos:
 
 O nosso amigo Dilbert está desempregado e gostaria de criar seu Curriculum Vitae. Para ter um maior alcance e consequentemente mais chances de conseguir um emprego, ele deseja publicar o currículo on-line como página Web.
 
-A princípio ele forneceu, textualmente, algumas informações que estão disponíveis no arquivo compactado [projeto-1-informacoes.zip](projeto-1-informacoes.zip). Nele encontram-se sua foto e as informações necessárias que devem ser colocadas no currículoe apresentadas em um navegador Web, conforme ilustra abaixo.
+A princípio ele forneceu, textualmente, algumas informações que estão disponíveis no arquivo compactado [projeto-1-informacoes.zip](projeto-1-informacoes.zip). Nele encontram-se sua foto e as informações necessárias que devem ser colocadas no currículoe apresentadas em um navegador Web, conforme ilustra a figura abaixo.
 
+---
 ![Layout Curriculum](projeto-1-screen.png)
+---
 
 ## Entrega
 ---
