@@ -23,6 +23,7 @@ A princípio ele forneceu, textualmente, algumas informações que estão dispon
 
 ---
 ![Layout Curriculum](projeto-1-screen.png)
+
 ---
 
 ## Entrega
