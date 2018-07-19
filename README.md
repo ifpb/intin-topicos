@@ -21,7 +21,7 @@ Acompanhe o progresso desses conteúdos nos [roteiros de aula](docs/ROTEIRO.md)
 A nota final será computada através da média aritméticas das seguintes atividades:
 
 ### 1º Bimestre:
-* Avaliação I (HTML): a ser aplicada em 19/07/2018
+* [Avaliação I (HTML)](https://github.com/ifpb/intin-topicos/blob/master/exams/prova-1.md)
 * Projeto I: [especificação do projeto](exams/projeto-1.md)
 
 ### 2º Bimestre:
@@ -41,4 +41,4 @@ A nota final será computada através da média aritméticas das seguintes ativi
 E para completar ainda mais, acesse esses [exemplares](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) com outras indicações.
 
 ## Referências / Inspirações
-Diciplina de [Linguagens de Marcação](https://github.com/ifpb/lm) do Curso de Tecnologia de Sistemas para Internet do IFPB 
+Diciplina de [Linguagens de Marcação](https://github.com/ifpb/lm) do Curso de Tecnologia de Sistemas para Internet do IFPB
