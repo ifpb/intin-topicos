@@ -21,7 +21,7 @@ Acompanhe o progresso desses conteúdos nos [roteiros de aula](docs/ROTEIRO.md)
 A nota final será computada através da média aritméticas das seguintes atividades:
 
 ### 1º Bimestre:
-* [Avaliação I (HTML)](https://ifpb.github.io/intin-topicos/exams/projeto-1.html)
+* [Avaliação I (HTML)](https://ifpb.github.io/intin-topicos/exams/prova-1.html)
 * Projeto I: [especificação do projeto](exams/projeto-1.md)
 
 ### 2º Bimestre:
