@@ -81,7 +81,7 @@
   - Botões de ação
 - Criando um formulário básico
 
-## \#07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)
+## \# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)
 ---
 **Conteúdo:**
 - [Cascade Style Sheet (CSS)](https://ifpb.github.io/css-guide/css/)
