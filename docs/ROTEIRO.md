@@ -86,7 +86,7 @@
 **Conteúdo:**
 - [Cascade Style Sheet (CSS)](https://ifpb.github.io/css-guide/css/)
   - [Origem do CSS](https://ifpb.github.io/css-guide/css/problem)
-  - [Declarações do CSS](https://ifpb.github.io/css-guide/css/stylesheet/): local (`style=""`), interna ([`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style)), externa ([`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link))
+  - [Declarações do CSS](https://ifpb.github.io/css-guide/css/stylesheets/): local (`style=""`), interna ([`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style)), externa ([`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link))
   - Sintaxe do CSS
     - [Propriedades](https://ifpb.github.io/css-guide/css/property/):
       - Texto & Fonte
