@@ -11,6 +11,7 @@
 
 [\# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)](#-07---introdução-ao-cascade-style-sheet-css-25072018)
 
+
 ## \# 01 - Apresentação da Disciplina (10/05/2018)
 ---
 **Conteúdo:**
@@ -109,3 +110,24 @@
 
 **Exercício:**
 * [Criando seu primeiro estilo](https://ifpb.github.io/css-exercises/css/hello-world-css/)
+
+## \# 08 - Box model (02/08/2018)
+
+**Conteúdo:**
+- [Box model](https://ifpb.github.io/css-guide/css/box-model/)
+
+**Reflexão:**
+* O que é box model? Como um box pode ser exibido no navegador?
+* Por que o W3C considera os elementos HTML [deste link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics) como inline?
+* Existe alguma exceção de elemento inline que permite definir largura?
+* Quais estilos podemos aplicar em um Box?
+* É possível personalizar o estilo de alguma borda específica? Por exemplo, a borda inferior? E no chrome, como é calculado o `em` para margens?
+* Como centralizamos um parágrafo de largura pré-definida?
+* Qual é a melhor maneira de definir altura de um Box sem gerar problemas de alinhamento vertical?
+* É possível deixar uma borda arredonda nas quinas?
+* Como funcionar a sombra para um Box?
+* Como apresentar uma tabela em uma grid contínua sem espaçamento entre as bordas?
+
+**Exercício:**
+* Analise o Box Model [desses títulos](https://ifpb.github.io/css-guide/css/box-model/).
+* Exemplo de layout
