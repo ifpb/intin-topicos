@@ -9,7 +9,7 @@
 
 **Unidade 2 - CSS:**
 
-[\# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)](#-07---introdução-ao-cascade-style-sheet-css-25072018)
+[\# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)](#-07---introdução-ao-cascade-style-sheet-css-25072018)<br>
 [\# 08 - Estilizando Texto (09/08/2018)](#-09---estilizando-texto-09082018)
 
 
