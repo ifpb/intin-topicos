@@ -153,4 +153,4 @@
 * Como estilizamos um hyperlink?
 
 **Exercício:**
-* Criando o [Curriculum Vitae com Estilo](exercicios/1-CSS/1.html)
+* Criando o [Curriculum Vitae com Estilo](https://github.com/ifpb/intin-topicos/blob/master/exercicios/1-CSS/1.md)
