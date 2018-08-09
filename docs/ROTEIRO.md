@@ -139,6 +139,8 @@
 - [Estilizando Texto](https://ifpb.github.io/css-guide/css/typography/) ([Texto e fonte](https://ifpb.github.io/css-guide/css/typography.html#text-and-font), [Alinhamento de Texto](https://ifpb.github.io/css-guide/css/typography.html#text-layout))
 - [Estilizando links](https://ifpb.github.io/css-guide/css/hyperlink/)
   - pseudo-class selector: `:hover`, `:link`, `:active`, `:visited`, `:focus`
+  - [Web Fontes](https://ifpb.github.io/css-guide/css/web-font/)
+- [Ícones](https://ifpb.github.io/css-guide/css/icon/)
 
 **Reflexão:**
 * Quais são os estilos de alinhamento e aparência para fonte?
@@ -151,4 +153,4 @@
 * Como estilizamos um hyperlink?
 
 **Exercício:**
-* Criando o [Curriculum Vitae com Estilo](exercicios/1-css/1.html)
+* Criando o [Curriculum Vitae com Estilo](exercicios/1-CSS/1.html)
