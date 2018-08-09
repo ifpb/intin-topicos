@@ -131,3 +131,24 @@
 **Exercício:**
 * Analise o Box Model [desses títulos](https://ifpb.github.io/css-guide/css/box-model/).
 * Exemplo de layout
+
+
+## \# 09 - Estilizando Texto (09/08/2018)
+
+**Conteúdo:**
+- [Estilizando Texto](https://ifpb.github.io/css-guide/css/typography/) ([Texto e fonte](https://ifpb.github.io/css-guide/css/typography.html#text-and-font), [Alinhamento de Texto](https://ifpb.github.io/css-guide/css/typography.html#text-layout))
+- [Estilizando links](https://ifpb.github.io/css-guide/css/hyperlink/)
+  - pseudo-class selector: `:hover`, `:link`, `:active`, `:visited`, `:focus`
+
+**Reflexão:**
+* Quais são os estilos de alinhamento e aparência para fonte?
+* Na propriedade `font-family`, qual é a diferença entre `<family-name>` e `<generic-family>`?
+* Se não for definido nenhum `<family-name>` a um elemento, qual será a `<family-name>` atribuída por default?
+* O que acontece se o `<family-name>` não possuir a fonte instalada no computador?
+* Qual é a recomendação para se difinir uma propriedade `font-family`?
+* Em relação ao valor `<length>`, qual a diferança entre unidades de medida relativa e absoluta? Que propriedades de texto recebem esse valor?
+* Como funciona a sombra para um texto?
+* Como estilizamos um hyperlink?
+
+**Exercício:**
+* Criando o [Curriculum Vitae com Estilo](exercicios/1-css/1.html)
