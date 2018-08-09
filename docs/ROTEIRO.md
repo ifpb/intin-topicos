@@ -10,7 +10,7 @@
 **Unidade 2 - CSS:**
 
 [\# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)](#-07---introdução-ao-cascade-style-sheet-css-25072018)
-[\# 09 - Estilizando Texto (09/08/2018)](#-09---estilizando-texto-09082018)
+[\# 08 - Estilizando Texto (09/08/2018)](#-09---estilizando-texto-09082018)
 
 
 
@@ -135,7 +135,7 @@
 * Exemplo de layout
 
 
-## \# 09 - Estilizando Texto (09/08/2018)
+## \# 08 - Estilizando Texto (09/08/2018)
 
 **Conteúdo:**
 - [Estilizando Texto](https://ifpb.github.io/css-guide/css/typography/) ([Texto e fonte](https://ifpb.github.io/css-guide/css/typography.html#text-and-font), [Alinhamento de Texto](https://ifpb.github.io/css-guide/css/typography.html#text-layout))
