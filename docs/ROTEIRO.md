@@ -11,6 +11,7 @@
 
 [\# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)](#-07---introdução-ao-cascade-style-sheet-css-25072018)<br>
 [\# 08 - Estilizando Texto (09/08/2018)](#-08---estilizando-texto-09082018)
+[\# 09 - Simulado CSS (16/08/2018)](#-09---Simulado-CSS-16082018)
 
 
 
@@ -158,10 +159,10 @@
 * Criando o [Curriculum Vitae com Estilo](https://github.com/ifpb/intin-topicos/blob/master/exercicios/1-CSS/1.md)
 
 
-## \# 09 - Simulado CSS (15/08/2018)
+## \# 09 - Simulado CSS (16/08/2018)
 **Reflexão:**
   - O que é possível fazer com o HTML e CSS até o momento?
 
 ** Exercício:**
   - Simulado:
-   - [Profile Simples](https://ifpb.github.io/intin-topicos/desafios/perfil-pessoal/README.html)
+   - [Profile Simples](https://ifpb.github.io/intin-topicos/desafios/perfil-pessoal/)
