@@ -156,3 +156,12 @@
 
 **Exercício:**
 * Criando o [Curriculum Vitae com Estilo](https://github.com/ifpb/intin-topicos/blob/master/exercicios/1-CSS/1.md)
+
+
+## \# 09 - Simulado CSS (15/08/2018)
+**Reflexão:**
+  - O que é possível fazer com o HTML e CSS até o momento?
+
+** Exercício:**
+  - Simulado:
+   - [Profile Simples](https://ifpb.github.io/intin-topicos/desafios/perfil-pessoal/README.html)
