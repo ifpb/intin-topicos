@@ -13,6 +13,8 @@
 [\# 08 - Estilizando Texto (09/08/2018)](#-08---estilizando-texto-09082018)
 [\# 09 - Simulado CSS (16/08/2018)](#-09---Simulado-CSS-16082018)
 
+** Unidade 3 - Javascript:**
+[\#11 - Introdução a Javascript (29/08/2018)](#-11---introdução-a-javascript-29082018)
 
 
 ## \# 01 - Apresentação da Disciplina (10/05/2018)
@@ -166,3 +168,23 @@
 ** Exercício:**
   - Simulado:
    - [Profile Simples](https://ifpb.github.io/intin-topicos/desafios/perfil-pessoal/)
+
+## \#10 - Componentes Web (29/08/2018)
+**Conteúdo:**
+- [CSS Packages](https://ifpb.github.io/css-guide/packages/)
+  - [Bootstrap](https://ifpb.github.io/css-guide/packages/bootstrap/)
+  - [Materialize](http://materializecss.com)
+  - [Bulma](https://bulma.io)
+
+**Reflexão:**
+* Qual é a finalidade de bibliotecas como o Bootstrap?
+* Como funciona o layout do Bootstrap usando o Grid System?
+
+**Exercício:**
+* Analise algum template do repositório [Start Bootstrap](https://startbootstrap.com/template-categories/all/).
+* Crie alguma página básica usando o Bootstrap.
+
+## \#11 - Introdução a Javascript (29/08/2018)
+**Conteúdo:**
+  - Primeiros passos com Javascript
+  - Visão geral da linguagem: tipos de dados, variáveis, sintaxe, operadores, estrutura. [Slides](https://slides.com/diegoep/javascript-1/#/)
