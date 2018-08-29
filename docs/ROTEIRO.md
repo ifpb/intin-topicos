@@ -12,10 +12,11 @@
 [\# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)](#-07---introdução-ao-cascade-style-sheet-css-25072018)<br>
 [\# 08 - Estilizando Texto (09/08/2018)](#-08---estilizando-texto-09082018)
 [\# 09 - Simulado CSS (16/08/2018)](#-09---Simulado-CSS-16082018)
+[\# 09 - Componentes Web (30/08/2018)](#-09---Componentes-Web-30082018)
 
 **Unidade 3 - Javascript:**
 
-[\# 11 - Introdução a Javascript (29/08/2018)](#-11---Introdução-a-Javascript-29082018)
+[\# 11 - Introdução a Javascript (29/08/2018)](#-11---Introdução-a-Javascript-30082018)
 
 ## \# 01 - Apresentação da Disciplina (10/05/2018)
 ---
@@ -184,7 +185,7 @@
 * Analise algum template do repositório [Start Bootstrap](https://startbootstrap.com/template-categories/all/).
 * Crie alguma página básica usando o Bootstrap.
 
-## \#11 - Introdução a Javascript (29/08/2018)
+## \#11 - Introdução a Javascript (30/08/2018)
 **Conteúdo:**
   - Primeiros passos com Javascript
   - Visão geral da linguagem: tipos de dados, variáveis, sintaxe, operadores, estrutura.
