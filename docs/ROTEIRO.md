@@ -170,7 +170,7 @@
   - Simulado:
    - [Profile Simples](https://ifpb.github.io/intin-topicos/desafios/perfil-pessoal/)
 
-## \#10 - Componentes Web (29/08/2018)
+## \# 10 - Componentes Web (29/08/2018)
 **Conteúdo:**
 - [CSS Packages](https://ifpb.github.io/css-guide/packages/)
   - [Bootstrap](https://ifpb.github.io/css-guide/packages/bootstrap/)
@@ -185,7 +185,7 @@
 * Analise algum template do repositório [Start Bootstrap](https://startbootstrap.com/template-categories/all/).
 * Crie alguma página básica usando o Bootstrap.
 
-## \#11 - Introdução a Javascript (30/08/2018)
+## \# 11 - Introdução a Javascript (30/08/2018)
 **Conteúdo:**
   - Primeiros passos com Javascript
   - Visão geral da linguagem: tipos de dados, variáveis, sintaxe, operadores, estrutura.
