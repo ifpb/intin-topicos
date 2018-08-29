@@ -13,10 +13,9 @@
 [\# 08 - Estilizando Texto (09/08/2018)](#-08---estilizando-texto-09082018)
 [\# 09 - Simulado CSS (16/08/2018)](#-09---Simulado-CSS-16082018)
 
-** Unidade 3 - Javascript:**
+**Unidade 3 - Javascript:**
 
-[\#11 - Introdução a Javascript (29/08/2018)](#-11---introdução-a-javascript-29082018)
-
+[\#11 - Introdução a Javascript (29/08/2018)](#-11---Introdução-a-Javascript-29082018)
 
 ## \# 01 - Apresentação da Disciplina (10/05/2018)
 ---
