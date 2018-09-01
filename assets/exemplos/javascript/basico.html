@@ -1,0 +1,26 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <script type="text/javascript">
+    function tratarFormulario() {
+        qtd = document.getElementById("qtd").value
+        if (qtd > 100) {}
+
+        for (i=1; i<qtd; i++) {
+          document.write("<p>Mensagem premiada!</p>");
+        }
+        return false;
+    }
+
+  </script>
+</head>
+<body>
+
+  <form method="post" onsubmit="tratarFormulario(); return false">
+    <h2>Quantas vezes você quer que eu exiba a mensagem premiada?</h2>
+    <input type="text" id="qtd" name="qtd" />
+    <input type="submit" value="Enviar" />
+  </form>
+
+</body>
+</html>
