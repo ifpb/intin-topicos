@@ -17,6 +17,7 @@
 **Unidade 3 - Javascript:**
 
 [\# 11 - Introdução a Javascript (29/08/2018)](#-11---introdução-a-javascript-30082018)<br>
+[\# 12 - Javascript (objetos e arrays) (06/08/2018)](#-12-javascript-objetos-e-arrays-06082018)<br>
 
 ## \# 01 - Apresentação da Disciplina (10/05/2018)
 ---
@@ -191,3 +192,10 @@
   - Primeiros passos com Javascript
   - Visão geral da linguagem: tipos de dados, variáveis, sintaxe, operadores, estrutura.
   - [Slides](https://slides.com/diegoep/javascript-1/#/)
+
+## \# 12 - Javascript (objetos e arrays) (06/08/2018)
+**Conteúdo:**
+  - Criação e manipulação de arrays
+  - Criação e manipulação de objetos
+  - Funções utilitárias
+  - [Slides](https://slides.com/diegoep/javascript-2/#/)
