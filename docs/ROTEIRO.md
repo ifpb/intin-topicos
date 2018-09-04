@@ -199,3 +199,4 @@
   - Criação e manipulação de objetos
   - Funções utilitárias
   - [Slides](https://slides.com/diegoep/javascript-2/#/)
+  - [Exercícios](https://github.com/ifpb/intin-topicos/blob/master/exercicios/1-Javascript1/2.md)
