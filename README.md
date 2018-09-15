@@ -27,6 +27,7 @@ A nota final será computada através da média aritméticas das seguintes ativi
 ### 2º Bimestre:
 * Projeto II: [especificação do projeto](exams/projeto-2.md)
 * Avaliação II (CSS / Javascript)
+* Exercícios ([prévias das notas](exercicios/previas-notas.pdf))
 
 ## Bibliografia
 
