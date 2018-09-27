@@ -18,6 +18,7 @@
 
 [\# 11 - Introdução a Javascript (29/08/2018)](#-11---introdução-a-javascript-30082018)<br>
 [\# 12 - Javascript (objetos e arrays) (06/08/2018)](#-12-javascript-objetos-e-arrays-06082018)<br>
+[\# 13 - Javascript (DOM e criação de elementos) (27/09/2018)](#13-javascript-dom-e-criacao-de-elementos-27092018)<br>
 
 ## \# 01 - Apresentação da Disciplina (10/05/2018)
 ---
@@ -200,3 +201,10 @@
   - Funções utilitárias
   - [Slides](https://slides.com/diegoep/javascript-2/#/)
   - [Exercícios](https://github.com/ifpb/intin-topicos/blob/master/exercicios/2-Javascript1/2.md)
+
+## \# 13 - Javascript (DOM e criação de elementos) (27/09/2018)
+**Conteúdo:**
+  - Recuperação de elementos
+  - Escuta de eventos (ex.: onclick, onsubmit, onfocus)
+  - Criação e remoção de elementos com DOM
+  - [Exemplos](https://jsfiddle.net/9jL2efc0/8/)
