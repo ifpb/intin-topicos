@@ -21,11 +21,10 @@ O projeto da disciplina trata-se de um site de tema livre, a ser proposto por ca
 
 ## Cronograma do projeto
 **05/09/18** - Limite para definição das equipes e submissão das propostas de projeto.
-- [Modelo de documento para a proposta de projeto](https://docs.google.com/document/d/17bHMEhlfPpqkoJRNOR9mq9IAqVxfl2beV9vpaxGGm0s/edit?usp=sharing)
-- [Formulário de Submissão](https://goo.gl/forms/cGuoEQK6ew2DbqK93)
 
 **06/09/18** - Apresentação das propostas de projeto
 
-**26/09/18** - Entrega do projeto (código-fonte)
+**03/10/18** - Entrega do projeto (código-fonte)
+- [Formulário de Submissão](https://goo.gl/forms/X2kiaGZ1YebW3o7J3)
 
-**27/09/18** - Apresentação do projeto em sala de aula e entrega final
+**04/10/18** - Apresentação do projeto em sala de aula e entrega final
