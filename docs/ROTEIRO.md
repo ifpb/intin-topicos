@@ -1,33 +1,45 @@
 
 **Unidade 1 - HTML:**
-[\# 01 - Apresentação da Disciplina (10/05/2018)](#-01---apresentação-da-disciplina-10052018)<br>
-[\# 02 - Introdução a HTML e ferramentas (17/05/2018)](#-02---introdução-a-html-e-ferramentas-17052018)<br>
-[\# 03 - Gerenciando listas e tabelas (24/05/2018)](#-03---gerenciando-listas-e-tabelas-24052018)<br>
-[\# 04 - Adicionando Links (07/06/2018)](#-04---adicionando-links-07062018)<br>
-[\# 05 - Adicionando imagens, áudios e vídeos (14/06/2018)](#-05---adicionando-imagens-áudios-e-vídeos-14062018)<br>
-[\# 06 - Criando formulários (12/07/2018)](#-06---criando-formulários-12072018)<br>
+[\# 01 - Apresentação da Disciplina (25/04/2019)](#-01---apresentação-da-disciplina-25042019)<br>
+[\# 02 - Introdução a HTML e ferramentas (02/05/2019)](#-02---introdução-a-html-e-ferramentas-02052019)<br>
+[\# 03 - Gerenciando listas e tabelas (09/05/2019)](#-03---gerenciando-listas-e-tabelas-09052019)<br>
+[\# 04 - Adicionando Links (16/05/2019)](#-04---adicionando-links-16052019)<br>
+[\# 05 - Adicionando imagens, áudios e vídeos (14/06/2019)](#-05---adicionando-imagens-áudios-e-vídeos-14062019)<br>
+[\# 06 - Criando formulários (23/05/2019)](#-06---criando-formulários-23052019)<br>
 
 **Unidade 2 - CSS:**
 
-[\# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)](#-07---introdução-ao-cascade-style-sheet-css-25072018)<br>
-[\# 08 - Estilizando Texto (09/08/2018)](#-08---estilizando-texto-09082018)<br>
-[\# 09 - Simulado CSS (16/08/2018)](#-09---simulado-css-16082018)<br>
-[\# 10 - Componentes Web (30/08/2018)](#-10---componentes-web-30082018)
+[\# 07 - Introdução ao Cascade Style Sheet (CSS) (06/06/2019)](#-07---introdução-ao-cascade-style-sheet-css-06062019)<br>
+[\# 08 - Estilizando Texto (13/06/2019)](#-08---estilizando-texto-13062019)<br>
+[\# 09 - Simulado CSS (20/06/2019)](#-09---simulado-css-20062019)<br>
+[\# 10 - Componentes Web (30/06/2019)](#-10---componentes-web-30062019)<br>
+Prova 1 (04/07/2019)<br>
+Prova Bimestral (11/07/2019)<br>
+Apresentação de Projetos (18/07/2019)
 
 **Unidade 3 - Javascript:**
 
-[\# 11 - Introdução a Javascript (29/08/2018)](#-11---introdução-a-javascript-30082018)<br>
-[\# 12 - Javascript (objetos e arrays) (06/08/2018)](#-12-javascript-objetos-e-arrays-06082018)<br>
-[\# 13 - Javascript (DOM e criação de elementos) (27/09/2018)](#13-javascript-dom-e-criacao-de-elementos-27092018)<br>
+[\# 11 - Primeiros passos com Javascript (18/07/2019)](#-11---primeiros-passos-com-javascript-18072019)<br>
+[\# 12 - Javascript (loops e arrays) (25/07/2019)](#-12-javascript-loops-e-arrays-25072019)<br>
+[\# 13 - Javascript (Funções e objetos) (01/08/2019)](#13-javascript-funcoes-e-objetos-01082019)<br>
+[\# 14 - Javascript (DOM e criação de elementos) (08/08/2019)](#14-javascript-dom-e-criacao-de-elementos-08082019)<br>
+[\# 15 - Javascript (DOM e criação de elementos) (15/08/2019)](#14-javascript-dom-e-criacao-de-elementos-08082019)<br>
+[\# 16 - Javascript (DOM e criação de elementos) (22/08/2019)](#14-javascript-dom-e-criacao-de-elementos-08082019)<br>
+[\# 17 - Javascript (DOM e criação de elementos) (29/08/2019)](#14-javascript-dom-e-criacao-de-elementos-08082019)<br>
+[\# 18 - Javascript (DOM e criação de elementos) (05/09/2019)](#14-javascript-dom-e-criacao-de-elementos-08082019)<br>
+Prova 2 (12/09/2019)<br>
+Apresentação final dos proetos (19/09/2019)<br>
+Provas finais (26/09/2019)
 
-## \# 01 - Apresentação da Disciplina (10/05/2018)
+
+## \# 01 - Apresentação da Disciplina (25/04/2019)
 ---
 **Conteúdo:**
 - [Apresentação da disciplina](https://github.com/ifpb/intin-topicos/):
   - Objetivo, conteúdo, avaliação, comunicação, bibliografia e ferramentas
 - [Slides](https://github.com/ifpb/intin-topicos/blob/master/assets/slides/topicos-01.pdf)
 
-## \# 02 - Introdução a HTML e ferramentas (17/05/2018)
+## \# 02 - Introdução a HTML e ferramentas (02/05/2019)
 ---
 **Conteúdo:**
 - Editando HTML com o [Atom](https://atom.io/) e visualizando com o Google Chrome (https://www.google.com/chrome/)
@@ -47,7 +59,7 @@
 **Exercício:**
 - Criando a primeira página Web (cantina do IFPB)
 
-## \# 03 - Gerenciando listas e tabelas (24/05/2018)
+## \# 03 - Gerenciando listas e tabelas (09/05/2019)
 ---
 **Conteúdo:**
 - Listas `<ol>`, `<ul>`, `<dl>`
@@ -63,7 +75,7 @@
 - Criando página da disciplina com lista de itens
 - Adicionando cronograma da disciplina como tabela
 
-## \# 04 - Adicionando Links (07/06/2018)
+## \# 04 - Adicionando Links (16/05/2019)
 ---
 - Estrutura e características de um hyperlink
 - Definição e estrutura de uma URL (Uniform Resource Identifier)
@@ -72,7 +84,7 @@
 - Apontando para endereços absolutos e relativos
 - Trabalhando com âncoras internas dentro de uma página
 
-## \# 05 - Adicionando imagens, áudios e vídeos (14/06/2018)
+## \# 05 - Adicionando imagens, áudios e vídeos (14/06/2019)
 ---
 **Conteúdo:**
 - [Imagem `<img>`, `<figure>`, `<figcaption>`](../guides/imagens-e-midias)
@@ -81,7 +93,7 @@
   - Atributos: `src`, `alt`, `width`, `title`
   - Imagem com link
 
-## \# 06 - Criando formulários (12/07/2018)
+## \# 06 - Criando formulários (23/05/2019)
 ---
 - [Campos de formulário](../guides/formularios)
   - Campos de texto, data, email, número
@@ -90,7 +102,7 @@
   - Botões de ação
 - Criando um formulário básico
 
-## \# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2018)
+## \# 07 - Introdução ao Cascade Style Sheet (CSS) (25/07/2019)
 ---
 **Conteúdo:**
 - [Cascade Style Sheet (CSS)](https://ifpb.github.io/css-guide/css/)
@@ -119,7 +131,7 @@
 **Exercício:**
 * [Criando seu primeiro estilo](https://ifpb.github.io/css-exercises/css/hello-world-css/)
 
-## \# 08 - Box model (02/08/2018)
+## \# 08 - Box model (02/08/2019)
 
 **Conteúdo:**
 - [Box model](https://ifpb.github.io/css-guide/css/box-model/)
@@ -141,7 +153,7 @@
 * Exemplo de layout
 
 
-## \# 08 - Estilizando Texto (09/08/2018)
+## \# 08 - Estilizando Texto (09/08/2019)
 
 **Conteúdo:**
 - [Estilizando Texto](https://ifpb.github.io/css-guide/css/typography/) ([Texto e fonte](https://ifpb.github.io/css-guide/css/typography.html#text-and-font), [Alinhamento de Texto](https://ifpb.github.io/css-guide/css/typography.html#text-layout))
@@ -163,7 +175,7 @@
 **Exercício:**
 * Criando o [Curriculum Vitae com Estilo](https://github.com/ifpb/intin-topicos/blob/master/exercicios/1-CSS/1.md)
 
-## \# 09 - Simulado CSS (16/08/2018)
+## \# 09 - Simulado CSS (16/08/2019)
 **Reflexão:**
   - O que é possível fazer com o HTML e CSS até o momento?
 
@@ -171,40 +183,9 @@
   - Simulado:
    - [Profile Simples](https://ifpb.github.io/intin-topicos/desafios/perfil-pessoal/)
 
-## \# 10 - Componentes Web (30/08/2018)
+## \# 10 - Componentes Web (30/08/2019)
 **Conteúdo:**
 - [CSS Packages](https://ifpb.github.io/css-guide/packages/)
   - [Bootstrap](https://ifpb.github.io/css-guide/packages/bootstrap/)
   - [Materialize](http://materializecss.com)
   - [Bulma](https://bulma.io)
-
-**Reflexão:**
-* Qual é a finalidade de bibliotecas como o Bootstrap?
-* Como funciona o layout do Bootstrap usando o Grid System?
-
-**Exercício:**
-* Analise algum template do repositório [Start Bootstrap](https://startbootstrap.com/template-categories/all/).
-* Crie alguma página básica usando o Bootstrap.
-
-**Planejar projeto da disciplina**
-
-## \# 11 - Introdução a Javascript (30/08/2018)
-**Conteúdo:**
-  - Primeiros passos com Javascript
-  - Visão geral da linguagem: tipos de dados, variáveis, sintaxe, operadores, estrutura.
-  - [Slides](https://slides.com/diegoep/javascript-1/#/)
-
-## \# 12 - Javascript (objetos e arrays) (06/08/2018)
-**Conteúdo:**
-  - Criação e manipulação de arrays
-  - Criação e manipulação de objetos
-  - Funções utilitárias
-  - [Slides](https://slides.com/diegoep/javascript-2/#/)
-  - [Exercícios](https://github.com/ifpb/intin-topicos/blob/master/exercicios/2-Javascript1/2.md)
-
-## \# 13 - Javascript (DOM e criação de elementos) (27/09/2018)
-**Conteúdo:**
-  - Recuperação de elementos
-  - Escuta de eventos (ex.: onclick, onsubmit, onfocus)
-  - Criação e remoção de elementos com DOM
-  - [Exemplos](https://jsfiddle.net/9jL2efc0/8/)

@@ -14,21 +14,19 @@ A disciplina de Tópicos Especiais do Curso Técnico em Informática Integrado a
 * CSS
 * Javascript
 
-Acompanhe o progresso desses conteúdos nos [roteiros de aula](docs/ROTEIRO.md)
+Acompanhe o progresso desses conteúdos nos [roteiros de aula](docs/ROTEIRO.md) e no ambiente do [Google Classroom](https://classroom.google.com/u/2/c/MzYyODczNTk4NDJa).
 
 ## Avaliações
 
 A nota final será computada através da média aritméticas das seguintes atividades:
 
 ### 1º Bimestre:
-* [Avaliação I (HTML)](https://ifpb.github.io/intin-topicos/exams/prova-1.html)
-* Projeto I: [especificação do projeto](exams/projeto-1.md)
+* Avaliação I (HTML)
+* Projeto I
 
 ### 2º Bimestre:
-* Projeto II: [especificação do projeto](exams/projeto-2.md)
+* Projeto II
 * Avaliação II (CSS / Javascript)
-* Exercícios ([prévias das notas](exercicios/previas-notas.pdf))
-* [Prova Bimestral](exams/bimestral/prova-bimestral.md)
 
 ## Bibliografia
 
