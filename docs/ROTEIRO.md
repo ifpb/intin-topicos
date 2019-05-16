@@ -3,8 +3,8 @@
 [\# 01 - Apresentação da Disciplina (25/04/2019)](#-01---apresentação-da-disciplina-25042019)<br>
 [\# 02 - Introdução a HTML e ferramentas (02/05/2019)](#-02---introdução-a-html-e-ferramentas-02052019)<br>
 [\# 03 - Gerenciando listas e tabelas (09/05/2019)](#-03---gerenciando-listas-e-tabelas-09052019)<br>
-[\# 04 - Adicionando Links (16/05/2019)](#-04---adicionando-links-16052019)<br>
-[\# 05 - Adicionando imagens, áudios e vídeos (14/06/2019)](#-05---adicionando-imagens-áudios-e-vídeos-14062019)<br>
+[\# 04 - Adicionando Links (09/05/2019)](#-04---adicionando-links-16052019)<br>
+[\# 05 - Adicionando imagens, áudios e vídeos (16/05/2019)](#-05---adicionando-imagens-áudios-e-vídeos-14062019)<br>
 [\# 06 - Criando formulários (23/05/2019)](#-06---criando-formulários-23052019)<br>
 
 **Unidade 2 - CSS:**
@@ -84,7 +84,7 @@ Provas finais (26/09/2019)
 - Apontando para endereços absolutos e relativos
 - Trabalhando com âncoras internas dentro de uma página
 
-## \# 05 - Adicionando imagens, áudios e vídeos (14/06/2019)
+## \# 05 - Adicionando imagens, áudios e vídeos (16/05/2019)
 ---
 **Conteúdo:**
 - [Imagem `<img>`, `<figure>`, `<figcaption>`](../guides/imagens-e-midias)
