@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Exemplo de formulário</title>
+  </head>
+  <body>
+    <h1>Cadastro de Alunos</h1>
+    <form method="post" action="usuarios">
+      <fieldset>
+        <legend>Informações pessoais</legend>
+        <div>
+          <label for="nome">Nome: </label>
+          <input type="text" name="nome" id="nome" />
+        </div>
+        <div>
+          <label for="email">E-mail: </label>
+          <input type="email" name="email" id="email" />
+        </div>
+        <div>
+          <label>Gênero: </label>
+          <input type="radio" name="genero" id="masculino" value="masculino" />
+          <label for="masculino">Masculino</label>
+
+          <input type="radio" name="genero" id="feminino" value="feminino" checked />
+          <label for="feminino">Feminino</label>
+        </div>
+
+        <div>
+          <label for="foto">Foto: </label>
+          <input type="file" name="foto" id="foto" />
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>Preferências</legend>
+      <div>
+        <label>Esportes Favoritos:</label>
+
+        <input type="checkbox" name="esportesFavoritos" id="futebol" value="futebol" />
+        <label for="futebol">Futebol</label>
+
+        <input type="checkbox" name="esportesFavoritos" id="volei" value="volei" />
+        <label for="volei">Volei</label>
+
+        <input type="checkbox" name="esportesFavoritos" id="basquete" value="basquete" />
+        <label for="basquete">Basquete</label>
+
+        <input type="checkbox" name="esportesFavoritos" id="poker" value="poker" />
+        <label for="poker">Poker</label>
+
+        <input type="checkbox" name="esportesFavoritos" id="xadrez" value="xadrez" />
+        <label for="xadrez">Xadrez</label>
+      </div>
+      <div>
+        <label for="biografia">Biografia:</label>
+        <textarea name="biografia" cols="50" rows="5" id="biografia"></textarea>
+      </div>
+      </fieldset>
+      <fieldset>
+        <legend>Informações de endereço</legend>
+      <div>
+        <label for="cidade">Cidade: </label>
+        <select name="cidade" id="cidade">
+            <option value="cz">Cajazeiras</option>
+            <option value="cg">Campina Grande</option>
+            <option value="jp">João Pessoa</option>
+        </select>
+      </div>
+      </fieldset>
+      <div>
+        <input type="submit" value="Enviar" />
+        <input type="button" value="Cancelar" />
+      </div>
+    </form>
+  </body>
+</html>
