@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de HTML com Javascript integrado</title>
+    <meta charset="utf-8" />
+    <script type="text/javascript">
+        function olaMundo() {
+            // window.alert('Oi pessoal!!!');
+            const tituloPrincipal = document.getElementById("tituloPrincipal");            console.log(tituloPrincipal);
+            tituloPrincipal.innerHTML = "<span class='vermelho'>Oi</span>, pessoal!!!";
+        }
+
+        function removerElemento(elemento) {
+            console.log("Chamou remover");
+            elemento.remove();
+        }
+
+        function adicionarCampo() {
+            const formulario = document.getElementById("formulario");
+            // formulario.innerHTML += "<label>Comida: </label><input type='text' /><br />";
+            const div = document.createElement("div");
+            const label = document.createElement("label");
+            label.innerHTML = 'Comida:';
+            div.appendChild(label);
+            const inputComida = document.createElement("input");
+            inputComida.setAttribute('type', 'text');
+            div.appendChild(inputComida);
+            const botaoRemover = document.createElement('input');
+            botaoRemover.setAttribute('value', 'Remover');
+            botaoRemover.setAttribute('type', 'button');
+            botaoRemover.onclick = function() {
+                removerElemento(botaoRemover.parentElement);
+            }
+            div.appendChild(botaoRemover);
+            const br = document.createElement("br");
+            div.appendChild(br);
+            formulario.appendChild(div);
+        }
+
+        function mudarCor() {
+            const formulario = document.getElementById("formulario");
+            const cor = document.getElementById("corSelecionada");
+            formulario.style.background = cor.value;
+        }
+
+        // window.onload = olaMundo;
+    </script>
+    <style>
+        .vermelho {
+            color: #f00;
+        }
+        #formulario {
+            padding: 5px;
+            margin: 10px;
+            background: #f1f1f1;
+            border: 1px solid #c0c0c0; 
+        }
+    </style>
+</head>
+<body>
+    <h1 id="tituloPrincipal">Olá!</h1>
+    <input value="Clique aqui" type="button" onclick="olaMundo()" />
+    <form id="formulario">
+        <input type="button" onclick="adicionarCampo()" value="adicionar comida" />
+        <p>Diga quais são suas comidas favoritas:</p>
+    </form>
+    <label>Digite uma cor: </label><input type="text" id="cor" /> <input type="button" onclick="mudarCor()" value="Mudar cor do formulário" />
+    <label>Selecione uma cor: </label>
+    <select id="corSelecionada">
+        <option value="blue">Azul</option>
+        <option value="red">Vermelho</option>
+        <option value="black">Preto</option>
+        <option value="green">Verde</option>
+    </select>
+</body>
+</html>
