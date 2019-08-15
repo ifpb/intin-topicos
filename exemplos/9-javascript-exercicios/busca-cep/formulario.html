@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Busca por CEP</title>
+        <style type="text/css">
+            table {
+                border: 1xp solid #f1f1f1;
+                margin: 5px;
+            }
+            table tr td {
+                padding: 5px;
+                border: 1xp solid #c0c0c0; 
+            }
+            table tr td:first-child {
+                background: #000;
+                color: #fff;
+                border: 1xp solid #c0c0c0; 
+            }
+            table tr td:last-child {
+                background: #d1d1d1;
+                color: #f00;
+            }
+        </style>
+    </head>
+    <body>
+        <label>CEP: </label>
+        <input type="text" class="cep" />
+        <button>Enviar</button>
+
+        <div id="resultado">
+        </div>
+
+        <script type="text/javascript" src="js/buscacep.js"></script>
+    </body>
+</html>
