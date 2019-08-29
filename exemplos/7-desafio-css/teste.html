@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript">
+            function load() {
+                console.log("OI");
+                document.getElementById("teste").style.display = "none";
+                const novoElemento = document.createElement("h1");
+                novoElemento.innerHTML = "Que massa!!!!";
+                document.getElementById("conteudo").append(novoElemento);
+                const form = document.getElementsByTagName("form")[0];
+                const xhr = new XMLHttpRequest();
+                xhr.onreadystatechange = function () { 
+                    if (this.readyState == 4 && this.status == 200) {
+                        const obj = JSON.parse(this.response);
+                        for (let o of obj) {
+                            document.getElementById("conteudo").innerHTML += o.login + "<br />";
+                        }
+                    }
+                };
+                xhr.open("get", "https://api.github.com/users", true);
+                xhr.send();
+            }
+            window.onload = load;
+        </script>
+    </head>
+    <body>
+        <h1 id="teste">Olá, mundo!</h1>
+        <div id="conteudo">
+
+        </div>
+        <form action="http://google.com">
+
+        </form>
+    </body>
+</html>

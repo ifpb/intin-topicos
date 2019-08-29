@@ -3,19 +3,21 @@
 const pedido = [{ 
     nome: "Bola de Futebol",
     preco: 50.00,
-    descricao: "Bola oficial da copa"
+    descricao: "Bola oficial da copa",
+    quantidade: 5
 }, {
     nome: "Camisa do Corinthians",
     preco: 250.00,
-    descricao: "Camisa Oficial"
+    descricao: "Camisa Oficial",
+    quantidade: 3
 }];
 
-let total = 0;
-for (item of pedido) {
-    console.log("Nome = "+ item.nome);
-    console.log("Preço = "+ item.preco);
-    console.log("Descrição = "+ item.descricao);
-    total += item.preco;
+function calcularTotal(pedido) {
+    let total = 0.0;
+    for (produto of pedido) {
+        total += produto.preco * produto.quantidade;
+    }
+    return total;
 }
-console.log("Valor total do pedido = "+ total);
 
+console.log("O valor total dos produtos é: "+calcularTotal(pedido));
