@@ -23,11 +23,10 @@ A nota final será computada através da média aritméticas das seguintes ativi
 ### 1º Bimestre:
 * Avaliação I (HTML)
 * Projeto I
-* [Provas Bimestral](provas/cubonetwork-simple/README.md)
+* [Prova Bimestral](provas/cubonetwork-simple/README.md)
 
 ### 2º Bimestre:
-* Projeto II
-* Avaliação II (CSS / Javascript)
+* [Desafio Javascript](desafios/pokedex/README.md)
 
 ## Bibliografia
 
